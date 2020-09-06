@@ -36,5 +36,34 @@
     <ClCompile Include="引用传递.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="typedef使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myArea.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test中断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指向函数的指针数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myArea.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="func.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
